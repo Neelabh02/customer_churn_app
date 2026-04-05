@@ -1,8 +1,8 @@
-tensorflow==2.15.0
+tensorflow
 pandas
 numpy
 scikit-learn
-matplotlib
-seaborn
 tensorboard
+matplotlib
 streamlit
+scikeras
