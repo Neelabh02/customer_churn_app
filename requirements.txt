@@ -1,6 +1,11 @@
 tensorflow
+<<<<<<< HEAD
 pandas
 numpy
+=======
+pandas 
+numpy 
+>>>>>>> 17a615706c1a20a6ed4921db85efcdddc042db3b
 scikit-learn
 tensorboard
 matplotlib
